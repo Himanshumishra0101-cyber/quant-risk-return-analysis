@@ -1,18 +1,18 @@
 # quant-risk-return-analysis
 Quantitative analysis of the risk-return relationship in U.S. equities using Python, volatility measures and OLS regression.
-# Indian Stock Risk-Return Analysis
+# US Stock Risk-Return Analysis
 
 ## Project Overview
 
-This project investigates the relationship between risk and return in the Indian equity market using historical stock data from multiple sectors.
+This project investigates the relationship between risk and return in the US equity market using historical stock data from multiple sectors.
 
-The objective is to test whether higher-risk stocks generate higher returns and evaluate portfolio performance using volatility, regression analysis, and Sharpe Ratios.
+The objective is to test whether higher-risk stocks generate higher returns and evaluate portfolio performance using volatility, and regression analysis.
 
 ---
 
 ## Research Question
 
-Does the traditional risk-return tradeoff hold in the Indian stock market?
+Does the traditional risk-return tradeoff hold in the US stock market?
 
 ---
 
@@ -20,15 +20,18 @@ Does the traditional risk-return tradeoff hold in the Indian stock market?
 
 ### Sectors Included
 
-1. Banking & Financial Services
-2. Information Technology
-3. FMCG
-4. Pharmaceuticals
-5. Energy & Industrials
+Technology
+Financials
+Healthcare
+Energy
+Consumer
+Industry
+Telecom
+Real estate
 
 ### Benchmark
 
-NIFTY 50 Index (^NSEI)
+S&P 500
 
 ### Data Source
 
@@ -93,7 +96,6 @@ Stocks classified into:
 
 ## Results
 
-## Results
 
 ### Correlation Analysis
 
